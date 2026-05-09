@@ -1,0 +1,28 @@
+.bgNav {
+    background-color: #34829f;
+    z-index: 9999;
+    transition: 0.3s;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+.searchInput {
+    background: #fff;
+    border: 1px solid #a8a8a83d;
+    border-radius: 999px;
+    padding: 6px 16px;
+    color: #000;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.5s, width 0.3s;
+    width: 180px;
+}
+
+.searchInput::placeholder {
+    color: #949cb0;
+}
+
+.searchInput:focus {
+    border-color: #24baef;
+    width: 220px;
+}
