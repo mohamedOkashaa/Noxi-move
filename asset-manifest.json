@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Noxi-move/static/css/main.327830b3.css",
-    "main.js": "/Noxi-move/static/js/main.90da36d0.js",
+    "main.js": "/Noxi-move/static/js/main.da2f3cf9.js",
     "static/js/453.773dcaeb.chunk.js": "/Noxi-move/static/js/453.773dcaeb.chunk.js",
     "static/media/error.png": "/Noxi-move/static/media/error.dd0190c3a632827e78ff.png",
     "static/media/fa-solid-900.woff2": "/Noxi-move/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
@@ -10,11 +10,11 @@
     "static/media/fa-v4compatibility.woff2": "/Noxi-move/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
     "index.html": "/Noxi-move/index.html",
     "main.327830b3.css.map": "/Noxi-move/static/css/main.327830b3.css.map",
-    "main.90da36d0.js.map": "/Noxi-move/static/js/main.90da36d0.js.map",
+    "main.da2f3cf9.js.map": "/Noxi-move/static/js/main.da2f3cf9.js.map",
     "453.773dcaeb.chunk.js.map": "/Noxi-move/static/js/453.773dcaeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.327830b3.css",
-    "static/js/main.90da36d0.js"
+    "static/js/main.da2f3cf9.js"
   ]
 }
