@@ -93,91 +93,24 @@
     margin-top: 2px;
 }
 
-.formSection {
-    border: 1px solid #ffffff0a;
-    border-radius: 24px;
-    padding: 2rem;
-    background: #0d0f1a;
-}
 
-.formTitle {
-    font-size: 20px;
-    font-weight: 700;
-    margin-bottom: 1.5rem;
-}
-
-.formRow {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-    margin-bottom: 1rem;
-}
-
-.formGroup {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin-bottom: 1rem;
-}
-
-.formGroup label {
-    font-size: 12px;
-    color: #6b7280;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-}
-
-.formGroup input,
-.formGroup textarea {
-    background: #131722;
-    border: 1px solid #ffffff0a;
-    border-radius: 10px;
-    padding: 12px 16px;
-    color: #fff;
-    font-size: 14px;
-    font-family: inherit;
-    outline: none;
-    transition: border-color 0.3s;
-    resize: none;
-}
-
-.formGroup input:focus,
-.formGroup textarea:focus {
-    border-color: #24baef;
-}
-
-.formGroup textarea {
-    height: 120px;
-}
-
-.submitBtn {
-    width: 100%;
-    background: #24baef;
-    color: #0d0f1a;
-    font-weight: 800;
-    font-size: 14px;
-    padding: 14px;
-    border-radius: 999px;
-    border: none;
-    cursor: pointer;
-    font-family: inherit;
-    transition: opacity 0.3s;
-}
-
-.submitBtn:hover {
-    opacity: 0.85;
-}
-
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .grid {
-        grid-template-columns: 1fr;
-    }
-
-    .formRow {
         grid-template-columns: 1fr;
     }
 
     .hero h1 {
         font-size: 36px;
     }
+
+    .socialCard {
+        display: block;
+        text-align: center;
+    }
+
+    .socialIcon {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
 }

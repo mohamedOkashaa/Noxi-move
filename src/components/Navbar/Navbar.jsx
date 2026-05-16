@@ -88,6 +88,7 @@ export default function Navbar(props) {
                   placeholder="Search..."
                   value={searchQuery}
                   className={Style.searchInput}
+                  onClick={(e) => e.stopPropagation()}
                   onChange={(e) => {
                     setSearchQuery(e.target.value);
                     if (e.target.value) {

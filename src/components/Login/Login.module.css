@@ -1,0 +1,28 @@
+.errorMsg {
+  background: #131722;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #a8a8a83d;
+}
+
+.errorMsgBar {
+  background: #24baef;
+  height: 3px;
+}
+
+.errorMsgBody {
+  padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.errorMsgBody i {
+  font-size: 16px;
+  color: #24baef;
+}
+
+.errorMsgBody span {
+  color: #fff;
+  font-size: 13px;
+}

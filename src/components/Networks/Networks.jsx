@@ -47,14 +47,18 @@ export default function Networks() {
         </a>
       </div>
 
-      <a className={Style.socialCard} href="mailto:mohamedokasha755@gmail.com" target="_blank" rel="noopener noreferrer">
-        <div className={Style.socialIcon}><i className="fab fa-google"></i></div>
-        <div className={Style.socialInfo}>
-          <div className={Style.socialName}>Gmail</div>
-          <div className={Style.socialHandle}>mohamedokasha755@gmail.com</div>
-        </div>
-        <i className="fas fa-arrow-up-right-from-square"></i>
-      </a>
+      <div>
+
+        <a className={Style.socialCard} href="mailto:mohamedokasha755@gmail.com" target="_blank" rel="noopener noreferrer">
+          <div className={Style.socialIcon}><i className="fab fa-google"></i></div>
+          <div className={Style.socialInfo}>
+            <div className={Style.socialName}>Gmail</div>
+            <div className={Style.socialHandle}>mohamedokasha755@gmail.com</div>
+          </div>
+          <i className="fas fa-arrow-up-right-from-square goTo "></i>
+        </a>
+      </div>
+
     </div>
   )
 }
