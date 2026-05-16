@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Noxi-move/static/css/main.241b9f4d.css",
-    "main.js": "/Noxi-move/static/js/main.8b900bda.js",
+    "main.css": "/Noxi-move/static/css/main.77f3c707.css",
+    "main.js": "/Noxi-move/static/js/main.5d64c5ef.js",
     "static/js/453.773dcaeb.chunk.js": "/Noxi-move/static/js/453.773dcaeb.chunk.js",
     "static/media/error.png": "/Noxi-move/static/media/error.dd0190c3a632827e78ff.png",
     "static/media/fa-solid-900.woff2": "/Noxi-move/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
@@ -9,12 +9,12 @@
     "static/media/fa-regular-400.woff2": "/Noxi-move/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
     "static/media/fa-v4compatibility.woff2": "/Noxi-move/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
     "index.html": "/Noxi-move/index.html",
-    "main.241b9f4d.css.map": "/Noxi-move/static/css/main.241b9f4d.css.map",
-    "main.8b900bda.js.map": "/Noxi-move/static/js/main.8b900bda.js.map",
+    "main.77f3c707.css.map": "/Noxi-move/static/css/main.77f3c707.css.map",
+    "main.5d64c5ef.js.map": "/Noxi-move/static/js/main.5d64c5ef.js.map",
     "453.773dcaeb.chunk.js.map": "/Noxi-move/static/js/453.773dcaeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.241b9f4d.css",
-    "static/js/main.8b900bda.js"
+    "static/css/main.77f3c707.css",
+    "static/js/main.5d64c5ef.js"
   ]
 }
